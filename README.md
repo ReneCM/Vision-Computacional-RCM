@@ -1,2 +1,1 @@
-Visi-n-Computacional-
-=====================
+Vision Computacional 
